@@ -9,3 +9,7 @@ like thermostat, swaps, petries, tests for yeasts, tests for candida.
 Podcasts_Candida_LNU:
 
 Here U can find podcast videos created by our team according to LNU-team scenario
+
+URL of virtual lab video #1
+
+https://www.youtube.com/watch?v=0yKGOcHrLN8
