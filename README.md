@@ -19,4 +19,8 @@ Link on example of full build
 
 https://drive.google.com/drive/folders/1mAmWMxkZ1JNQluBCmfwfi47Y421iTIys?usp=sharing
 
+Important:
+
+First scene in exported package beta3.0 is ChromNew and all others are connected scene by scene.
+
 
