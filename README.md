@@ -13,3 +13,10 @@ Here U can find podcast videos created by our team according to LNU-team scenari
 URL of virtual lab video #1
 
 https://www.youtube.com/watch?v=0yKGOcHrLN8
+
+
+Link on project:
+
+https://drive.google.com/drive/folders/1mAmWMxkZ1JNQluBCmfwfi47Y421iTIys?usp=sharing
+
+
