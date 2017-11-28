@@ -1,10 +1,8 @@
 # 3d-objects-for-lab
 3DObject:
 
-Here U can find some 3D object for laboratory,
-like thermostat, swaps, petries, tests for yeasts, tests for candida.
-
-
+Here U can find a beta version of virtual laboratory of LNU team.
+This lab give a possibility to learn how to recognize different colonies of Candida.
 
 Podcasts_Candida_LNU:
 
@@ -17,10 +15,10 @@ https://www.youtube.com/watch?v=0yKGOcHrLN8
 
 Link on example of full build
 
-https://drive.google.com/drive/folders/1mAmWMxkZ1JNQluBCmfwfi47Y421iTIys?usp=sharing
+https://drive.google.com/file/d/1qyo0KtAuufSlmU_7z9MHWIX_g1RAdQbh/view?usp=sharing
 
 Important:
 
-First scene in exported package beta3.0 is ChromNew and all others are connected scene by scene.
+First scene in exported package beta3.0 is FirstMainScene and all others are connected scene by scene in scripts.
 
 
