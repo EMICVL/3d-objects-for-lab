@@ -13,12 +13,17 @@ URL of virtual lab video #1
 https://www.youtube.com/watch?v=0yKGOcHrLN8
 
 
-Link on example of full build
+Links on example of full build
 
 https://drive.google.com/file/d/1qyo0KtAuufSlmU_7z9MHWIX_g1RAdQbh/view?usp=sharing
+
+https://drive.google.com/file/d/1b5EWsApD2wb0OyukV30IRiwBbWfaRsvy/view?usp=sharing
 
 Important:
 
 First scene in exported package beta3.0 is FirstMainScene and all others are connected scene by scene in scripts.
+
+
+Link on 
 
 
